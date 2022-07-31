@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1605284332 source:d:\bhuwan\opengl\pitchmapmodelling\main.cpp
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
+1426329028 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426329028 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1659003286 source:e:\bhuwan khatiwada\projects\pitchmapmodelling\main.cpp
+	<GLUT/glut.h>
+	<GL/gl.h>
+	<GL/glut.h>
+	<iostream>
+
